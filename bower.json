@@ -1,0 +1,21 @@
+{
+  "name": "MeanStack",
+  "homepage": "https://github.com/tjinadas/MEANStack1",
+  "description": "Boilerplate for MeanStack",
+  "main": "index.html",
+  "authors": [
+    "TJ"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
